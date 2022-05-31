@@ -9,3 +9,6 @@ Helllo Summer 2022 Class
 
 We can clone out project down into our home folder 
 Use the HTTPS URL.
+
+
+To create a PPAT you got to settings > developer settings? Personal Acess Token.
